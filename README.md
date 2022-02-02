@@ -1,4 +1,4 @@
-# Git & GitHub course/ Curso Git y GitHub
+# Git & GitHub
 
 HELLO WORLD/HOLA MUNDO
 
